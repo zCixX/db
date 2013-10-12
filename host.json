@@ -1,0 +1,13 @@
+{
+	"version": 3.82,
+	"status": 1,
+	"v" : 295,
+	"vipurl" : "http://www.dragonboundaimbot.com/vip",
+	"shownotice" : {"text":"Bienvenido...","speed":70,"color":[0, 200 , 0, 255]},
+	"notice_off_str" : {"text":"Aimbot offline...","speed":70,"color":[255, 0 , 0, 255]},
+	"server_str": "Aimbot en mantenimiento (Jul 30), Esta versión no funcionará, por seguridad DESACTÍVALA!. Próxima versión a descargar: 3.1.4, se publicará en la página.",
+	"update_str": "Nueva versión disponible (3.8.2), www.dragonboundaimbot.com/vip",
+	"header_description": "Dragonbound hack de tiros perfectos en HTML5 - <b><a href=\"https://dragonbound.net\" target=\"_blank\">dragonbound.net</a></b> <br /> <b>Versión actual</b>: 3.1.3 [13 Agosto 2013] - <a href=\"http://www.youtube.com/watch?v=i8lSQLJirqI\" target=\"_blank\">video</a>",
+	"hosts" : ["http://www.dragonboundaimbot.com","http://dragonboundaimbot.tuars.com"],
+	"mobiles": "tank|armor gum|ice aduka thunder|lightning redfoot2|bigfoot dj|jd ufo|asate random knight nak mage trico|dino turtle grub boomer jfrog dragon kalsiddon fox"
+}
